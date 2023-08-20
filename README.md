@@ -99,7 +99,7 @@ Asegúrate de que tu `appsettings.json` contenga la configuración necesaria:
 ```json
 {
   "AppSettings": {
-    "EncryptionKey": "!AmarásClave256BitsCompleja!"
+    "EncryptionKey": "!YouWillLoveComplex256BitSecret!"
   }
 }
 ```
